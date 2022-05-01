@@ -1,0 +1,18 @@
+.intranet-c-frame-breadcrumb {
+	background-color: #e5e5e5;
+	color: #000000;
+
+	a {
+		color: #2b5a83;
+		font-weight: 500;
+		text-decoration: none;
+
+		&:hover {
+			color: #0D1B28;
+		}
+
+		svg {
+			margin-top: -4px;
+		}
+	}
+}
